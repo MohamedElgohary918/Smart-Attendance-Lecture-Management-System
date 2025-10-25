@@ -90,7 +90,8 @@ The main innovation lies in the **AI-based face recognition module**, which auto
 **Main Focus:**
 - Student & Doctor mobile app interface
 - App functionality and backend integration
- **5. Mina Naseh — Backend Engineer**
+
+**5. Mina Naseh — Backend Engineer**
   
 **6. AIad — Backend Engineer**
 **Main Focus:**
