@@ -84,6 +84,7 @@ The main innovation lies in the **AI-based face recognition module**, which auto
 **Main Focus:**
 - Facial recognition system and attendance automation
 - Camera integration and data collection
+
  **3. Mark — Mobile App Developer**
   
  **4. Ahmed — Mobile App Developer**
