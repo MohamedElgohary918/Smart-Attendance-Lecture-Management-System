@@ -79,16 +79,19 @@ The main innovation lies in the **AI-based face recognition module**, which auto
 ## **Team Roles and Responsibilities**
 
  **1. Mohamed — Computer Vision Engineer**
+ 
  **2. Mina — Computer Vision Engineer**
 **Main Focus:**
 - Facial recognition system and attendance automation
 - Camera integration and data collection
  **3. Mark — Mobile App Developer**
+  
  **4. Ahmed — Mobile App Developer**
 **Main Focus:**
 - Student & Doctor mobile app interface
 - App functionality and backend integration
  **5. Mina Naseh — Backend Engineer**
+  
 **6. AIad — Backend Engineer**
 **Main Focus:**
 - Database and API development
