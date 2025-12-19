@@ -1,14 +1,2 @@
-# attendance
-# attendance
-# attendance
-# attendance
-# attendance
-# attendance
-# attendance
-# attendance
-# attendance
-# attendance
-# attendance
-# attendance
-# attendance
-# attendance
+attendance project
+Backend with the AI model integrated
